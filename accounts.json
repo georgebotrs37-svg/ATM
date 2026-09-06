@@ -1,0 +1,20 @@
+{
+  "1111": {
+    "CardNumber": "1111",
+    "PIN": "1234",
+    "Owner": "John Smith",
+    "Balance": 5000,
+    "Transactions": null,
+    "WithdrawnToday": 0,
+    "LastWithdrawDay": ""
+  },
+  "2222": {
+    "CardNumber": "2222",
+    "PIN": "4321",
+    "Owner": "Sarah Johnson",
+    "Balance": 12000,
+    "Transactions": null,
+    "WithdrawnToday": 0,
+    "LastWithdrawDay": ""
+  }
+}
